@@ -4,7 +4,7 @@ import './sass/main.scss'
 function App() {
   return (
     <div className="App">
-      Sidebar
+      <button className='nav-btn'></button>
     </div>
   );
 }
